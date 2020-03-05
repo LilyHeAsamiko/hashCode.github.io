@@ -1,8 +1,7 @@
-name: Hash Code 2020, some problems(python, C++)
+
 
 # Site wide configuration
-
-title:            ByzanTine's Blog
+name: Hash Code 2020, some problems(python, C++)
 locale:           en_US
 url:              http://hashCode.github.io
 
