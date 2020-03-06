@@ -2,7 +2,7 @@ permalink: /blog/:year/:month/:day/:title
 # Site wide configuration
 name: Hash Code 2020, some problems(python, C++)
 locale:           en_US
-url:              http://hashCode.github.io
+url:              https://lilyheasamiko.github.io/hashCode.github.io/
 
 
 # Jekyll configuration
