@@ -1,7 +1,7 @@
 
 
 # Site wide configuration
-name: Hash Code 2020, some problems(python, C++)
+name: Hash Code 2020, some problems(python, C/C++)
 locale:           en_US
 url:              https://lilyheasamiko.github.io/hashCode.github.io/
 
