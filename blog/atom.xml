@@ -8,7 +8,7 @@ layout: feed
 	<link href="https://lilyheasamiko.github.io/blog/atom.xml" rel="self"/>
 	<link href="https://lilyheasamiko.github.io/blog"/>
 	<updated>{{ site.time | date_to_xmlschema }}</updated>
-	<id>http://hashCode.github.io/blog</id>
+	<id>http://lilyheasamiko.github.io/blog</id>
 	<author>
 		<name>Qin He</name>
 		<email>lilyheasamiko@gmail.com</email>
