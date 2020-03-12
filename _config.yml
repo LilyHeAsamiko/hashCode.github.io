@@ -33,7 +33,7 @@ post_ext: md
 #page_ext: md
 
 # Found in _blogs/
-post_layout: post
+post_layout: _post
 #page_layout: page
 
 # Format titles with titlecase?
