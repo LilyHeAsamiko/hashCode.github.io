@@ -5,8 +5,8 @@ layout: feed
 <feed xmlns="http://www.w3.org/2005/Atom">
 
 	<title>Hash Code 2020, Book Scan</title>
-	<link href="https://LilyHeAsamiko.github.io/hashCode.github.io/blog/atom.xml" rel="self"/>
-	<link href="https://LilyHeAsamiko.github.io/hashCode.github.io"/>
+	<link href="https://lilyheasamiko.github.io/hashCode.github.io/blog/atom.xml" rel="self"/>
+	<link href="https://lilyheasamiko.github.io/hashCode.github.io"/>
 	<updated>{{ site.time | date_to_xmlschema }}</updated>
 	<id>http://lilyheasamiko.github.io/blog</id>
 	<author>
